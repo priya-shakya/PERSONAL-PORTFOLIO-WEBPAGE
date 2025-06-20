@@ -38,3 +38,8 @@ A resume website alternative for showcasing projects, skills, and contact inform
 Academic submissions for web development coursework or portfolio projects.
 Freelance profile pages for displaying work samples and availability.
 As a template base for clients’ portfolio websites in freelance web development projects.
+
+
+![Image](https://github.com/user-attachments/assets/a5272f72-db2d-4896-9539-96d9d3cb6ebd)
+
+
